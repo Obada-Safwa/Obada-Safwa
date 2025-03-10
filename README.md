@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Obada Safwa</h1>
-<h3 align="center">I am taken</h3>
+<h3 align="center">Upcoming Talent</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- ⚡ Fun fact **React took my heart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
